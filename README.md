@@ -1,6 +1,6 @@
 # Checkers
 #### Instructions to start the game:
-1. Build the project  
+1. Build the project in debug x86 mode 
 2. Set Main as StartUp project  
 3. Run in debug x86 mode
 #### Instructions to make a move:
